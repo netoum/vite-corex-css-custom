@@ -7,7 +7,7 @@ A minimal Vite starter template for using [Corex](https://github.com/netoum/core
 To scaffold a new Corex project using this template:
 
 ```bash
-npx degit netoum/vite-corex-css my-corex-app
+npx degit netoum/vite-corex-css-custom my-corex-app
 cd my-corex-app
 npm install
 npm run dev
