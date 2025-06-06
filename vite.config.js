@@ -12,6 +12,7 @@ import { resolve } from 'path';export default defineConfig({
         clipboard: resolve(__dirname, 'clipboard.html'),
         collapsible: resolve(__dirname, 'collapsible.html'),
         dialog: resolve(__dirname, 'dialog.html'),
+        'date-picker': resolve(__dirname, 'date-picker.html'),
         link: resolve(__dirname, 'link.html'),
         listbox: resolve(__dirname, 'listbox.html'),
         menu: resolve(__dirname, 'menu.html'),
